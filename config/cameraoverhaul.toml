@@ -1,0 +1,141 @@
+# cameraoverhaul.config.configVersion.desc
+# Default: 0
+configVersion = 2
+
+[general]
+
+	# cameraoverhaul.config.enabled.desc
+	# Default: true
+	enabled = true
+	# cameraoverhaul.config.enableInThirdPerson.desc
+	# Default: true
+	enableInThirdPerson = true
+	# cameraoverhaul.config.turningRollAccumulation.desc
+	# Default: 1.0
+	turningRollAccumulation = 1.0
+	# cameraoverhaul.config.turningRollIntensity.desc
+	# Default: 1.25
+	turningRollIntensity = 1.25
+	# cameraoverhaul.config.turningRollSmoothing.desc
+	# Default: 1.0
+	turningRollSmoothing = 1.0
+	# cameraoverhaul.config.cameraSwayIntensity.desc
+	# Default: 0.6
+	cameraSwayIntensity = 0.6
+	# cameraoverhaul.config.cameraSwayFrequency.desc
+	# Default: 0.16
+	cameraSwayFrequency = 0.16
+	# cameraoverhaul.config.cameraSwayFadeInDelay.desc
+	# Default: 0.15
+	cameraSwayFadeInDelay = 0.15
+	# cameraoverhaul.config.cameraSwayFadeInLength.desc
+	# Default: 5.0
+	cameraSwayFadeInLength = 5.0
+	# cameraoverhaul.config.cameraSwayFadeOutLength.desc
+	# Default: 0.75
+	cameraSwayFadeOutLength = 0.75
+	# cameraoverhaul.config.screenShakesMaxIntensity.desc
+	# Default: 2.5
+	screenShakesMaxIntensity = 2.5
+	# cameraoverhaul.config.screenShakesMaxFrequency.desc
+	# Default: 6.0
+	screenShakesMaxFrequency = 6.0
+	# cameraoverhaul.config.explosionTrauma.desc
+	# Default: 1.0
+	explosionTrauma = 1.0
+	# cameraoverhaul.config.thunderTrauma.desc
+	# Default: 0.05
+	thunderTrauma = 0.05
+	# cameraoverhaul.config.handSwingTrauma.desc
+	# Default: 0.03
+	handSwingTrauma = 0.03
+
+[walking]
+
+	# cameraoverhaul.config.strafingRollFactor.desc
+	# Default: 10.0
+	strafingRollFactor = 10.0
+	# cameraoverhaul.config.forwardVelocityPitchFactor.desc
+	# Default: 7.0
+	forwardVelocityPitchFactor = 7.0
+	# cameraoverhaul.config.verticalVelocityPitchFactor.desc
+	# Default: 2.5
+	verticalVelocityPitchFactor = 2.5
+	# cameraoverhaul.config.horizontalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# cameraoverhaul.config.verticalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+
+[swimming]
+
+	# cameraoverhaul.config.strafingRollFactor.desc
+	# Default: -30.0
+	strafingRollFactor = -30.0
+	# cameraoverhaul.config.forwardVelocityPitchFactor.desc
+	# Default: 21.0
+	forwardVelocityPitchFactor = 21.0
+	# cameraoverhaul.config.verticalVelocityPitchFactor.desc
+	# Default: 7.5
+	verticalVelocityPitchFactor = 7.5
+	# cameraoverhaul.config.horizontalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# cameraoverhaul.config.verticalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+
+[flying]
+
+	# cameraoverhaul.config.strafingRollFactor.desc
+	# Default: -10.0
+	strafingRollFactor = -10.0
+	# cameraoverhaul.config.forwardVelocityPitchFactor.desc
+	# Default: 7.0
+	forwardVelocityPitchFactor = 7.0
+	# cameraoverhaul.config.verticalVelocityPitchFactor.desc
+	# Default: 2.5
+	verticalVelocityPitchFactor = 2.5
+	# cameraoverhaul.config.horizontalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# cameraoverhaul.config.verticalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+
+[mounts]
+
+	# cameraoverhaul.config.strafingRollFactor.desc
+	# Default: 20.0
+	strafingRollFactor = 20.0
+	# cameraoverhaul.config.forwardVelocityPitchFactor.desc
+	# Default: 7.0
+	forwardVelocityPitchFactor = 7.0
+	# cameraoverhaul.config.verticalVelocityPitchFactor.desc
+	# Default: 2.5
+	verticalVelocityPitchFactor = 2.5
+	# cameraoverhaul.config.horizontalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# cameraoverhaul.config.verticalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+
+[vehicles]
+
+	# cameraoverhaul.config.strafingRollFactor.desc
+	# Default: 5.0
+	strafingRollFactor = 5.0
+	# cameraoverhaul.config.forwardVelocityPitchFactor.desc
+	# Default: 1.75
+	forwardVelocityPitchFactor = 1.75
+	# cameraoverhaul.config.verticalVelocityPitchFactor.desc
+	# Default: 5.0
+	verticalVelocityPitchFactor = 5.0
+	# cameraoverhaul.config.horizontalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# cameraoverhaul.config.verticalVelocitySmoothingFactor.desc
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
